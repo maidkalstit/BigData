@@ -65,5 +65,5 @@ Dữ liệu đầu ra sẽ bao gồm:
 - Các biểu đồ trực quan hóa quá trình xử lý dữ liệu.
 
 ## Tác giả
-Dự án này được thực hiện bởi [Vũ Giang Nam]. Nếu có bất kỳ câu hỏi nào, vui lòng liên hệ qua email hoặc GitHub.
+Dự án này được thực hiện bởi [Đặng Bùi Thanh Tùng]. Nếu có bất kỳ câu hỏi nào, vui lòng liên hệ qua email hoặc GitHub.
 
